@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu28505-prog/Applied-programming-skills/tree/master/0075-sort-colors) |
+| [0234-palindrome-linked-list](https://github.com/vtu28505-prog/Applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -46,4 +47,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu28505-prog/Applied-programming-skills/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/vtu28505-prog/Applied-programming-skills/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/vtu28505-prog/Applied-programming-skills/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/vtu28505-prog/Applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
