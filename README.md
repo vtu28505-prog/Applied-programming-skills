@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vtu28505-prog/Applied-programming-skills/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/vtu28505-prog/Applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/vtu28505-prog/Applied-programming-skills/tree/master/0704-binary-search) |
+| [0905-sort-array-by-parity](https://github.com/vtu28505-prog/Applied-programming-skills/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu28505-prog/Applied-programming-skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu28505-prog/Applied-programming-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Prefix Sum
@@ -35,10 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vtu28505-prog/Applied-programming-skills/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/vtu28505-prog/Applied-programming-skills/tree/master/0234-palindrome-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/vtu28505-prog/Applied-programming-skills/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu28505-prog/Applied-programming-skills/tree/master/0075-sort-colors) |
+| [0905-sort-array-by-parity](https://github.com/vtu28505-prog/Applied-programming-skills/tree/master/0905-sort-array-by-parity) |
 ## Quicksort
 |  |
 | ------- |
